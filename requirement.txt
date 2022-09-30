@@ -1,2 +1,0 @@
-# requirements.txt
--r https://github.com/snowflakedb/snowflake-connector-python/blob/main/tested_requirements/requirements_310.reqs
