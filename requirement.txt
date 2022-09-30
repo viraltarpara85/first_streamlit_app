@@ -1,4 +1,4 @@
 # requirement.txt
 #snowflake-connector-python==2.7.9
 streamlit==1.11.0
--r https://github.com/snowflakedb/snowflake-connector-python/blob/main/tested_requirements/requirements_310.reqs
+-r https://github.com/snowflakedb/snowflake-connector-python/blob/main/tested_requirements/requirements_39.reqs
